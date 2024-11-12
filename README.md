@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashishasne&label=Profile%20views&color=0e75b6&style=flat" alt="urvashishasne" /> </p>
 
-- 🌱 I’m currently learning **django, OpenCV,DSA**
+- 🌱 I’m currently learning ** Statistics,Machine Learning,DSA**
 
 - 👯 I’m looking to collaborate on **Image processing**
 
