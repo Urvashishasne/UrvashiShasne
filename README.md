@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Urvashi Shasne</h1>
-<h3 align="center">A passionate AI and Data science learner.</h3>
+<h3 align="center">Student of Technology and aspirirng Data analyst.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashishasne&label=Profile%20views&color=0e75b6&style=flat" alt="urvashishasne" /> </p>
 
-- 🌱 I’m currently learning ** Statistics,Machine Learning,DSA**
+- 🌱 I’m currently learning ** Data Analytics ,Statistics,Machine Learning,DSA**
+  
+- I wanted to be Best Data analyst to help company or bussiness to their growth. 
 
-- 👯 I’m looking to collaborate on **Image processing**
+- 👯 I’m looking to collaborate on **Data Analysis work and Machine Learning projects **
 
 - 📫 How to reach me **urvishasne@gmail.com**
 
