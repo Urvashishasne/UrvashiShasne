@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashishasne&label=Profile%20views&color=0e75b6&style=flat" alt="urvashishasne" /> </p>
 
-- 🌱 I’m currently learning ** Data Analytics ,Statistics,Machine Learning,DSA**
-  
+- 🌱 I’m currently learning  Data Analytics, Statistics, Machine Learning,DSA
 - I wanted to be Best Data analyst to help company or bussiness to their growth. 
+- 👯 I’m looking to collaborate on **Data Analysis work and Machine Learning projects 
 
-- 👯 I’m looking to collaborate on **Data Analysis work and Machine Learning projects **
-
-- 📫 How to reach me **urvishasne@gmail.com**
+- 📫 How to reach me urvishasne@gmail.com
 
 - ⚡ Fun fact **I am crazy about Technology and Science**
 
